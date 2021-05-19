@@ -5,3 +5,6 @@ MoDuit is a freelancer app, get money from working in your radius.
 
 ![Screenshot_2021-05-01-09-14-40-53](https://user-images.githubusercontent.com/82354360/118848653-24480800-b8f9-11eb-87de-02c3d60d053d.jpg)
 
+![image](https://user-images.githubusercontent.com/82354360/118855567-1649b580-b900-11eb-892e-3664c7d71dd4.png)
+
+
