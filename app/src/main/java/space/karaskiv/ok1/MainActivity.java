@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
         footTxt1.setTranslationY(300);
         footTxt2.setTranslationY(300);
 
-
         fb.setAlpha(v);
         google.setAlpha(v);
         twitter.setAlpha(v);
@@ -73,8 +72,5 @@ public class MainActivity extends AppCompatActivity {
         menuBar.animate().translationX(0).alpha(1).setDuration(800).setStartDelay(400).start();
         footTxt1.animate().translationY(0).alpha(1).setDuration(1000).setStartDelay(800).start();
         footTxt2.animate().translationY(0).alpha(1).setDuration(1000).setStartDelay(850).start();
-
-
-
     }
 }
