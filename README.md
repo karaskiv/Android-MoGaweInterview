@@ -1,5 +1,5 @@
 # Android-MoDuit
-MoGawe is a freelancer app, get money from working in your radius.
+MoGawe is a freelancer app, get money from working right through your phone.
 
 # Screenshots
 
